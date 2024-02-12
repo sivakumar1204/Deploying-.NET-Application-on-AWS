@@ -1,0 +1,1 @@
+This repo holds the source code for .NET application and its dependencies.
